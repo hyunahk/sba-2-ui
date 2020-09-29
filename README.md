@@ -1,68 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+객체 = 기능 + 속성 함수 = 기능 변수 = 속성 함수 = 객체 - 속성 변수 = 객체 - 함수
 
-## Available Scripts
+3 = 2 + 1 9 = 3 * 3
 
-In the project directory, you can run:
+2020-09-29
 
-### `yarn start`
+대수 숫자 -> 문자 3 을 a = 3 스케일 0 ~ 1 문자 -> 숫자 함수형, 객체지향 람다 표현의 간소화 class interface
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+이미테이션 처치 교수(함수형) - 튜링 제자() test( param ) -> str: return '' test( param ): self.name = param String test(param){ return "" }
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+const test = () => {}
 
-### `yarn test`
+★★★★ 위 식에서 return 키워드가 없어도 return 이 존재한다
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+자연수 1, 2, 3, ... 인도 0 T, F 1, 0 객체 object matrix = vector + vector array(vector) = object + object object = attr + function (element) function = return + name + ( param ) anonymous function = return + (param)
 
-### `yarn build`
+Functional Expression return, param F, F Runable : 무한동력 에너지 - 존재하지 않음 F, T Consumer : setter T, F Supplier : getter T, T Function : 함수로 정의된 것은 표기하지 않아도 반드시 return 이 존재한다. return 이라는 키워드가 없어도 return 은 존재한다. function 이라고 정의한 경우에는 lambda함수는 함수다.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+case 4
